@@ -93,3 +93,5 @@ ENV/
 # Miscellaneous
 msg.tmp
 *.tmp
+.idea/
+
